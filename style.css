@@ -16,6 +16,9 @@ body {
   border-bottom-style: solid;
 }
 
+.image {
+  display: flex;
+}
 /*
 
 * {
